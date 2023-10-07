@@ -1,5 +1,6 @@
 # notes-app-back-end
 
-Dicoding Notes Backend
+Notes Backend
+Using Node JS HAPI Framework
 
 Simple CRUD API.
